@@ -1,0 +1,23 @@
+{
+  "name": "parcel-plugin-disable-loaders",
+  "version": "0.0.0",
+  "description": "Allow to disable parcel loaders",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kagami/parcel-plugin-disable-loaders.git"
+  },
+  "keywords": [
+    "parcel",
+    "plugin"
+  ],
+  "author": "Kagami Hiiragi",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/Kagami/parcel-plugin-disable-loaders/issues"
+  },
+  "homepage": "https://github.com/Kagami/parcel-plugin-disable-loaders#readme",
+  "peerDependencies": {
+    "parcel-bundler": "^1.5.1"
+  }
+}
