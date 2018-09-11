@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-disable-loaders",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Allow to disable parcel loaders",
   "main": "index.js",
   "repository": {
